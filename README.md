@@ -27,7 +27,7 @@ This mini app exercise demonstrates separation of concerns. Here is a tree struc
 
 In the above directory tree, the only files visible to the users is the `public` folder.
 
-The hidden `includes` folder basically contains one helper function that like like this:
+The hidden `includes` folder basically contains one `helper` function that looks like this:
 
 
 
