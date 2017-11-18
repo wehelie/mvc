@@ -1,4 +1,8 @@
 ### MVC
+
+![screenshot](public/img/sshot.png)
+
+
 This mini app exercise demonstrates separation of concerns. Here is a tree structure of the folder directory.
 
 - - -
@@ -50,3 +54,7 @@ function render(string $template, array $data = [])
 ?>
 
 ```
+
+
+### Demo
+![screenshot](public/img/demo.gif)
